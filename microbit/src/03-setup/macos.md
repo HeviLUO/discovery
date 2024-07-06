@@ -1,6 +1,6 @@
 # macOS
 
-All the tools can be installed using [Homebrew]:
+所有工具都可以使用[Homebrew]安装：
 
 [Homebrew]: http://brew.sh/
 
@@ -12,6 +12,6 @@ $ # Minicom
 $ brew install minicom
 ```
 
-That's all! Go to the [next section].
+就这样！转到[下一节]。
 
-[next section]: verify.md
+[下一节]: verify.md
